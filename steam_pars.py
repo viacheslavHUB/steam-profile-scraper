@@ -1,6 +1,6 @@
 import requests
 print("START")
-API_KEY = "YOUR_API_KEY_HERE""
+API_KEY = "YOUR API KEY"
 
 
 class SteamAPI:
