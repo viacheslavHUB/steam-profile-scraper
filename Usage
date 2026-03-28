@@ -1,0 +1,5 @@
+Usage
+Get your Steam API key
+Open steam_pars.py
+Replace:
+API_KEY = "YOUR_API_KEY_HERE"
